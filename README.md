@@ -12,6 +12,7 @@ Date of birth: 21.08.2003
 Gender: male
 Character: soft
 Marital status: Not maried
+- 🌵What programs do I work with: I work with programs such as: visual studio, Adobe Photoshop
 - 🌴Other:
 I speak languages: Russian, English
 Medical book: Yes
