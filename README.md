@@ -1,4 +1,12 @@
 ### Hi,i'm Dmitry👋
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshlyagaGhoul&layout=compact"/></a>
+</p>
+
 I am studying the programming language C # and I also create applications in this language.
 - 🔭 I’m currently working on my small project, an application for solving tests on C#
 - 🌱 I’m currently learning at the Pedagogical College of the city of Novozybkov
@@ -26,10 +34,3 @@ I also do freelance
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshlyagaGhoul&layout=compact"/></a>
-</p>
