@@ -26,3 +26,10 @@ I also do freelance
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=BeshlyagaGhoul&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshlyagaGhoul&layout=compact"/></a>
+</p>
