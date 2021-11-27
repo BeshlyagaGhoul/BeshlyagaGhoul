@@ -39,6 +39,7 @@ I play shooters such as: Warface, Counter-Strike 1.6, Counter-Strike Source, Cou
 - Previously played football ⚽ , as well as wrestling 🤼‍♂
 - Now I just go to the gym 🏋
 - 💸Salary: By agreement
+- ![Ken_about_to_fight_Nimura](https://user-images.githubusercontent.com/93982628/143673637-5d60669d-6bb8-41a1-bbe7-7dc303f9ec2d.png)
 - 🇷🇺 RU:
 - Я изучаю язык программирования C #, а также создаю приложения на этом языке.
 - 🔭 Я сейчас работаю над своим небольшим проектом, приложением для решения тестов на C #
