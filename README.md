@@ -23,8 +23,8 @@ I am studying the programming language C # and I also create applications in thi
 - 🌵What programs do I work with: I work with programs such as: visual studio, Adobe Photoshop
 - 🌴Other:
 I speak languages: Russian, English
-Medical book: Yes
-Driving license: A, B
+- Medical book: Yes
+- Driving license: A, B
 - ☘Hobbies:
 I play shooters such as: Warface, Counter-Strike 1.6, Counter-Strike Source, Counter-Strike Global Offensive
 I also do freelance
