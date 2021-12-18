@@ -8,8 +8,8 @@
 </p>
 
 - Приложение написано на Visual Studio/The application is written in Visual Studio
--EN:An archive with my application has been added to the repository, if you are interested, then go to the second repository "TestApplication" and find out the necessary information there.
--RU:К репозиторию добавлен архив с моим приложением,если заинтересовало,то переходи на второй репозиторий "TestApplication" и узнай там нужную информацию.
+- EN:An archive with my application has been added to the repository, if you are interested, then go to the second repository "TestApplication" and find out the necessary information there.
+- RU:К репозиторию добавлен архив с моим приложением,если заинтересовало,то переходи на второй репозиторий "TestApplication" и узнай там нужную информацию.
 
 - 🇬🇧 EN:
 I am studying the programming language C # and I also create applications in this language.
