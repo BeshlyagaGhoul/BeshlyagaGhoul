@@ -7,6 +7,10 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshlyagaGhoul&layout=compact"/></a>
 </p>
 
+- Приложение написано на Visual Studio/The application is written in Visual Studio
+-EN:An archive with my application has been added to the repository, if you are interested, then go to the second repository "TestApplication" and find out the necessary information there.
+-RU:К репозиторию добавлен архив с моим приложением,если заинтересовало,то переходи на второй репозиторий "TestApplication" и узнай там нужную информацию.
+
 - 🇬🇧 EN:
 I am studying the programming language C # and I also create applications in this language.
 - 🔭 I’m currently working on my small project, an application for solving tests on C#
@@ -72,6 +76,7 @@ I play shooters such as: Warface, Counter-Strike 1.6, Counter-Strike Source, Cou
 - Раньше занимался футболом ⚽, а также борьбой 🤼‍
 - Теперь я просто хожу в спортзал 🏋
 - 💸Заработная плата: по договоренности
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
