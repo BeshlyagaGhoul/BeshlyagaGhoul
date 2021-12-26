@@ -76,7 +76,10 @@ I play shooters such as: Warface, Counter-Strike 1.6, Counter-Strike Source, Cou
 - Раньше занимался футболом ⚽, а также борьбой 🤼‍
 - Теперь я просто хожу в спортзал 🏋
 - 💸Заработная плата: по договоренности
+- Представляю вашему вниманию мои заслуги за всю мою никчемную жизнь / I present to your attention my merits for all my worthless life
 
+![Nekommerch-2-1503589-ORF](https://user-images.githubusercontent.com/93982628/147417370-9e8948a9-2a7c-4611-ba0a-ebb53de34ad6.jpg)
+[1_этап_Студенты_Муж_2872920.pdf](https://github.com/BeshlyagaGhoul/BeshlyagaGhoul/files/7777425/1_._._._2872920.pdf)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
